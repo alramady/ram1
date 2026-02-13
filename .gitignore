@@ -1,0 +1,15 @@
+.bash_logout
+.bashrc
+.cache/
+.config/
+.env
+.local/
+.logs/
+.npm/
+.nvm/
+.profile
+.secrets/
+ram1/
+sandbox.txt
+terminal_full_output/
+upload/
